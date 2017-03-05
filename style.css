@@ -1,7 +1,14 @@
 body{
- background-color: green;
+ background-color: orange;
 }
 h1{
  font-size: 30px;
  color: black;
+ font-weight: bold;
+ align-items: center;
+}
+p{
+ font-size: 25px;
+ color: red;
+ font-family: cursive;
 }
